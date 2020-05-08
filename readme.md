@@ -20,7 +20,9 @@ characters, 00 is space between words. I found out that this is actually longer 
 We need to resemble dots, dashes and pauses. Pauses were split into spaces between characters and spaces between words.
 That gets us:
 
-* Dot: 00
-* Dash: 01
-* Character space: 10
-* Word space: 11
+Characters | Binary
+--- | ---
+Dot | 00
+Dash | 01
+Character space | 10
+Word space | 11
