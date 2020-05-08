@@ -26,3 +26,9 @@ Dot | 00
 Dash | 01
 Character space | 10
 Word space | 11
+
+## Next steps
+
+The next step would be to make a gui for it.
+
+I'm pretty sure it can be ported to a script (it has only one class), but I can't write scripts as of now.
