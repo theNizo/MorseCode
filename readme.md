@@ -1,3 +1,5 @@
+(abandoned until further notice)
+
 ## What is it?
 
 This is a program that can read and write files in a binary morse code format that's currently run via a terminal.
